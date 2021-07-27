@@ -7,3 +7,8 @@
 - Em desenvolvimento ⚠️
 - Create React App
 - yarn start
+
+<a>Added:<a/>
+<p>Styled Components<p/>
+<p>Theme Switcher | Light & Dark (Em progresso)<p/>
+<p>No questions (Component)<p/>
